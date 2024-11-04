@@ -15,3 +15,7 @@ Consigli del giorno:
 5. proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano"
 
 ## Ragionamento logico
+-Creare il generatore numerico per l'utente;
+-Creare il generatore numerico per il computer;
+-Confrontare il valore più alto;
+-Dichiarare il vincitore.
